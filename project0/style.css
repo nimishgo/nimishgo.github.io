@@ -1,0 +1,70 @@
+#cardmb-3 {
+  background-color: #272727;
+  border-radius: 0.5cm;
+  margin: 0.5cm; }
+
+.TitleM {
+  color: #6ee935;
+  font-family: monospace;
+  font-size: x-large;
+  display: flexbox;
+  width: 6 cm;
+  height: 2 cm;
+  background-color: rgba(53, 53, 53, 0.918);
+  padding: 0.5cm;
+  margin: 0.5cm;
+  border-radius: 2.5cm;
+  text-align: center; }
+
+body {
+  background-color: #17171a;
+  margin: 1.5cm;
+  align-content: center;
+  align-items: center; }
+  body h1, body h2, body h3, body h4, body h5, body p, body .container {
+    text-align: center;
+    color: #6ee935;
+    font-size: 0.5cm;
+    font-family: monospace;
+    background-color: #3b3b3b;
+    align-content: center;
+    border-radius: 0.3cm; }
+
+.container {
+  padding: 0.5cm; }
+
+h6 {
+  color: lime;
+  display: inline-flex;
+  align-content: center; }
+
+.card-img {
+  margin: 0.3cm;
+  padding: 0.4cm; }
+
+footer {
+  color: #00bbcc; }
+
+.motive, .aim, .goal {
+  font-family: monospace;
+  font-size: 17px;
+  font-stretch: condensed;
+  font-weight: bold;
+  border: 0px solid black;
+  display: flex;
+  padding: 20px;
+  margin-left: 0.5cm;
+  margin-right: 0.5cm;
+  background-image: linear-gradient(rgba(59, 59, 59, 0.829), rgba(59, 59, 59, 0.829), #6ee935, rgba(59, 59, 59, 0.829), rgba(59, 59, 59, 0.829));
+  border-radius: 0.3cm; }
+
+.motive {
+  color: #3b3b3b; }
+
+.aim {
+  color: #3b3b3b; }
+
+.goal {
+  color: #3b3b3b; }
+
+/*# sourceMappingURL=style.css.map */
