@@ -4,7 +4,7 @@ title: Nimish Gote - Portfolio
 ---
 
 # Nimish Gote
-📍 Nagpur, MH | ✉️ [nimish.2711@gmail.com](mailto:nimish.2711@gmail.com) | 🔗 [LinkedIn](#) | 🐙 [GitHub](#)
+📍 Nagpur, MH | ✉️ [nimish.2711@gmail.com](mailto:nimish.2711@gmail.com) | 🔗 [LinkedIn](https://www.linkedin.com/in/nimishgo/) | 🐙 [GitHub](https://github.com/nimishgo)
 
 ## 👨‍💻 About Me
 I am a Computer Science and Engineering graduate with a strong focus on backend development, AI integrations, and technical mentorship. With professional experience as a Project Engineer and Teaching Assistant, I specialize in building robust applications, automating workflows, and architecting AI-driven services. I am highly comfortable operating in Linux environments and rely on Vim/Neovim as a core part of my development toolkit.
@@ -47,6 +47,10 @@ I am a Computer Science and Engineering graduate with a strong focus on backend 
 
 ## 🚀 Projects
 
+### Go Pokedex repl
+Tech Stack: Go
+* Cli based pokedex using pokeapi. It allows you to explore all the regions, catch and inspect the pokemon
+
 ### Netflix GPT
 **Tech Stack:** *React, Tailwind CSS, Javascript*
 *   Developed a Netflix clone using React.js, Tailwind CSS, and Firebase.
@@ -59,16 +63,4 @@ I am a Computer Science and Engineering graduate with a strong focus on backend 
 
 ---
 
-## 🏆 Achievements
 
-*   Consistently recognized for team engagement and technical support, winning the Technical Expert Award twice for exceptional performance.
-*   Successfully mentored hundreds of students in complex problem solving, personally completing 375+ DSA problems.
-
----
-
-## 🎓 Education
-
-**B.E. in Computer Science and Engineering**
-GH Raisoni Academy of Engineering and Technology (Nagpur University)
-*2017 - 2021*
-*   **CGPA:** 9.08/10
