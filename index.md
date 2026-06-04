@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Nimish Gote - Portfolio
+title: Welcome!
 ---
 
 # Nimish Gote
