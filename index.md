@@ -11,37 +11,35 @@ I am a Computer Science and Engineering graduate with a strong focus on backend 
 
 ---
 
-## 🛠 Skills
-
-*   **Programming Languages:** Python, SQL, JavaScript, Bash, HTML5, CSS3
-*   **AI Tools:** ChatGPT, Claude, Prompt Engineering, Technical Documentation, Notion, Obsidian
-*   **Frameworks & Databases:** FastAPI, React, Node.js, Sqlite, PostgreSQL, MongoDB
-*   **Cloud & DevOps:** AWS (Lambda, S3, EC2), Azure, Docker, Jenkins, Git
-*   **OS & Tools:** Windows, Linux, Vim/Neovim, Command Line Interface, Nix
-*   **Project & Ops Management:** Jira, ClickUp, Excel
+## Skills
+* **Programming Languages:** Python, Javascript, Typescript, Java, Bash, HTML/CSS
+* **Frameworks & Libraries:** Django, Django REST Framework, FastAPI, Playwright, Pytest, Celery, LangChain, SQLAlchemy, Django ORM, ReactJs, NextJs
+* **Databases:** MySQL, PostgreSQL, MongoDB, Redis, SQLite, Pinecone
+* **Cloud Platforms:** AWS (Lambda, S3, EC2), GCP (Cloud Storage, BigQuery, Pub/Sub, Firestore), Heroku
+* **DevOps & CI/CD:** Jenkins, Docker, Git, GitHub Actions
+* **OS & Tools:** Linux, Jira, Vim/Neovim, Command Line Interface
+* **Monitoring & Observability:** Prometheus, Grafana
 
 ---
 
-## 💼 Experience
+## Experience
 
-### Teaching Assistant (Part Time) - Crio.Do, Bengaluru
-*Feb 2024 - Jan 2025*
+### Teaching Assistant (Part Time)
+**Crio.Do, Bengaluru** | *Feb 2024 - Dec 2025*
+* Taking live sessions and solving user doubts in DSA, and helped with AI support service improvement.
+* Tested product features and curriculum updates from an instructional perspective, ensuring all acceptance criteria were met before rollout.
 
-*   Provided 1:1 guidance and conducted live sessions to simplify complex Data Structures & Algorithms (DSA) and Backend development concepts for students.
-*   Managed multiple educational cohorts and strict sprint cycles, ensuring the timely delivery of curriculum milestones and maintaining high student engagement.
-*   Tested product features and curriculum updates from an instructional perspective, ensuring all acceptance criteria were met before rollout.
-*   Gathered feedback from live sessions to assist product teams in continuous AI support service improvement.
-
-### Project Engineer - Crio.Do, Bengaluru
-*Nov 2022 - Jan 2024*
-
-*   Consistently achieved 95% SLA compliance in technical support, earning Technical Expert recognition two times.
-*   Collaborated with Growth team to build LAPPs in CRM platform LeadSquared, streamlining sales processes.
-*   Coordinated with instructional designers and content teams to develop 5+ industry-grade MERN projects, communicating technical requirements effectively.
-*   Mentored developers, facilitated open feedback loops, and conducted code reviews to foster a culture of continuous team improvement and high performance.
-*   Architected and deployed an AI service utilizing prompt management that successfully handled 83% of user technical queries via real-time chat.
-*   Developed Discord bot for automated user role management and content moderation, efficiently managing community server.
-*   Automated operational workflows, including lead data extraction from APIs to Google Sheets using Python, significantly reducing manual data entry.
+### Project Engineer
+**Crio.Do, Bengaluru** | *Nov 2022 - Dec 2023*
+* Architected and launched an AI-powered technical support platform that autonomously resolved 83% of user queries through prompt engineering, context management, and real-time conversational workflows on Freshchat.
+* Optimized database queries on Mentor portal, reducing API response times by 30% and improving user experience.
+* Established comprehensive observability using Prometheus monitoring, achieving 99.9% system availability through automated testing and recovery protocols.
+* Automated lead data extraction from the Leadsquared API to Google Sheets using Python, reducing manual entry.
+* Deployed and managed the application on AWS ECS for reliability and scalability.
+* Built automated job aggregation pipelines using Django REST Framework, Playwright, Celery, and PostgreSQL, centralizing listings from multiple job platforms (Naukri, Greenhouse, Lever etc) and reducing manual job-tracking effort by 80%.
+* Identified operational inefficiencies and implemented automation solutions using Google Apps Script and Python-based Jenkins jobs, improving team productivity by 10x.
+* Collaborated with the content team to develop DSA and backend projects, enriching student learning and advancing the curriculum.
+* Taking live sessions and solving user doubts related to backend and DSA.
 
 ---
 
